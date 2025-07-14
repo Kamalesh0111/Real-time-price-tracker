@@ -1,6 +1,7 @@
 # Real-Time Price Tracker Application
 
-![Project Demo Screenshot](...) <!-- Optional: Add a screenshot of your app here -->
+![Project Demo Screenshot](<img width="1919" height="929" alt="Screenshot 2025-07-14 235056" src="https://github.com/user-attachments/assets/5ea2a576-e6ef-4bd5-b0ce-1c294516b239" />)
+ <!-- Optional: Add a screenshot of your app here -->
 
 A full-stack price tracking application that allows users to monitor e-commerce products and receive instant email and browser push notifications when prices drop below their target.
 
@@ -35,8 +36,8 @@ The project uses a microservices-oriented architecture where each component is c
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/[YOUR_USERNAME]/[YOUR_REPO_NAME].git
-    cd [YOUR_REPO_NAME]
+    git clone https://github.com/Kamalesh0111/Real-time-price-tracker.git
+    cd Real-time-price-tracker
     ```
 
 2.  **Backend Setup:**
