@@ -1,6 +1,6 @@
 # Real-Time Price Tracker Application
 
-![Project Demo Screenshot](<img width="1919" height="929" alt="Screenshot 2025-07-14 235056" src="https://github.com/user-attachments/assets/5ea2a576-e6ef-4bd5-b0ce-1c294516b239" />)
+![Project Demo Screenshot](https://github.com/user-attachments/assets/5ea2a576-e6ef-4bd5-b0ce-1c294516b239)
  <!-- Optional: Add a screenshot of your app here -->
 
 A full-stack price tracking application that allows users to monitor e-commerce products and receive instant email and browser push notifications when prices drop below their target.
